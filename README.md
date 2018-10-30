@@ -1,4 +1,4 @@
-# Web Video Streaming From Paspberry Pi
+# Web Video Streaming From Raspberry Pi
 
 Streaming video from raspberry pi 3 to web browser.
 
